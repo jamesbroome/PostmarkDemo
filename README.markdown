@@ -1,0 +1,1 @@
+This is a sample demo application showing how Postmark can be used from an ASP.NET MVC application using the Postmark .NET API.
