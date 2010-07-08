@@ -10,7 +10,7 @@
                 target="_blank"
                 title="Before you get started">Before you get started</a></h2>
         <p>
-           You'll need to create an account with <a href="http://postmarkapp.com/" target="_blank">Postmark</a>, and set up a server and sender signature. 
+           You'll need to create an account with <a href="http://postmarkapp.com/" target="_blank">Postmark</a>, and set up a server and sender signature.
            This is really easy, and takes about 5 minutes. 
         </p>
         <p>
